@@ -14,4 +14,4 @@
 
 ## **Notice⚠️**
 - 整个效果的核心逻辑是GSAP的Timeline动画以及stagger属性，详细请参考[官方文档](https://gsap.com/docs/v3/)
-- 其中会涉及到部分SVG描边动画，详细原理请参靠[该内容](https://github.com/JIEJOE-WEB-Tutorial/011-svg-stroke-animation)
+- 其中会涉及到部分SVG描边动画，详细请参考[链接](https://github.com/JIEJOE-WEB-Tutorial/011-svg-stroke-animation)
